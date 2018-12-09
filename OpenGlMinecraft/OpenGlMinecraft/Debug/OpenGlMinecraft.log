@@ -1,0 +1,31 @@
+﻿  stdafx.cpp
+d:\other\githubmglrepo\openglminecraft\openglminecraft\baseobjects.h(11): warning C4091: 'static ': ignored on left of 'Vector3' when no variable is declared
+d:\other\githubmglrepo\openglminecraft\openglminecraft\baseobjects.h(12): warning C4091: 'static ': ignored on left of 'Vector2' when no variable is declared
+d:\other\githubmglrepo\openglminecraft\openglminecraft\baseobjects.h(13): warning C4091: 'static ': ignored on left of 'Color' when no variable is declared
+d:\other\githubmglrepo\openglminecraft\openglminecraft\baseobjects.h(14): warning C4091: 'static ': ignored on left of 'Square' when no variable is declared
+d:\other\githubmglrepo\openglminecraft\openglminecraft\baseobjects.h(15): warning C4091: 'static ': ignored on left of 'Cube' when no variable is declared
+d:\other\githubmglrepo\openglminecraft\openglminecraft\baseobjects.h(21): warning C4091: 'static ': ignored on left of 'BlocksID' when no variable is declared
+d:\other\githubmglrepo\openglminecraft\openglminecraft\baseobjects.h(30): warning C4091: 'static ': ignored on left of 'Side' when no variable is declared
+d:\other\githubmglrepo\openglminecraft\openglminecraft\baseobjects.h(47): warning C4091: 'static ': ignored on left of 'Vector3' when no variable is declared
+d:\other\githubmglrepo\openglminecraft\openglminecraft\baseobjects.h(57): warning C4091: 'static ': ignored on left of 'Vector2' when no variable is declared
+d:\other\githubmglrepo\openglminecraft\openglminecraft\baseobjects.h(75): warning C4091: 'static ': ignored on left of 'Color' when no variable is declared
+d:\other\githubmglrepo\openglminecraft\openglminecraft\baseobjects.h(138): warning C4091: 'static ': ignored on left of 'Square' when no variable is declared
+  BaseObjects.cpp
+  BlockInstance.cpp
+  BlocksObjects.cpp
+  Chunk.cpp
+d:\other\githubmglrepo\openglminecraft\openglminecraft\chunk.cpp(23): warning C4553: '==': operator has no effect; did you intend '='?
+d:\other\githubmglrepo\openglminecraft\openglminecraft\chunk.cpp(27): warning C4553: '==': operator has no effect; did you intend '='?
+d:\other\githubmglrepo\openglminecraft\openglminecraft\chunk.cpp(58): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\other\githubmglrepo\openglminecraft\openglminecraft\chunk.cpp(59): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\other\githubmglrepo\openglminecraft\openglminecraft\chunk.cpp(64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  MinecraftGL.cpp
+  OpenGlMinecraft.cpp
+d:\other\githubmglrepo\openglminecraft\openglminecraft\openglminecraft.cpp(12): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\other\githubmglrepo\openglminecraft\openglminecraft\openglminecraft.cpp(15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\other\githubmglrepo\openglminecraft\openglminecraft\openglminecraft.cpp(24): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\other\githubmglrepo\openglminecraft\openglminecraft\openglminecraft.cpp(50): warning C4244: '=': conversion from 'DWORD' to 'float', possible loss of data
+d:\other\githubmglrepo\openglminecraft\openglminecraft\openglminecraft.cpp(53): warning C4244: '=': conversion from 'DWORD' to 'float', possible loss of data
+d:\other\githubmglrepo\openglminecraft\openglminecraft\openglminecraft.cpp(66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  OpenGlMinecraft.vcxproj -> D:\Other\GithubMGLrepo\OpenGlMinecraft\Debug\OpenGlMinecraft.exe
